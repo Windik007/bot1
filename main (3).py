@@ -374,4 +374,4 @@ async def invite(ctx):
 
 
 
-bot.run("Nzg5ODAwNzMzMzI3MjI4OTM5.X93VQA.j_fa5_z5oNxRdb_gb8b6jjEveDA")
+bot.run("Nzg5ODAwNzMzMzI3MjI4OTM5.X93VQA.rgQmvmFCcpE1mhXkju07YCaTpdo")
